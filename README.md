@@ -1,20 +1,20 @@
 # Order summary card template
 
-The [Order summary card template](https://redacademy.github.io/html-css-design-template/) is designed to practice and explore basic HTML and CSS.
+The [Order summary card template](https://farhdibehnamdev.github.io/Order-Summery-Card/) is designed to practice and explore basic HTML and CSS.
 
 The template is a guide meant for you to explore and change to ✨*make it your own*✨
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [So how do I use this](#So-how-do-I-use-this)
+  - [So how do I use this?](#So-how-do-I-use-this)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [helpful resources](#helpful-resources)
-- [Acknowledgments](#acknowledgments)
+- [Created a masterpiece? 🎨 Share it!](#Created-a-masterpiece)
 
 ## So how do I use this?
 
@@ -53,8 +53,6 @@ Users should be able to:
 #### CSS
 
 - [Mozilla Developer Network: Beginners Guide to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
-
-## Acknowledgments
 
 ## Created a masterpiece? 🎨 Share it!
 
