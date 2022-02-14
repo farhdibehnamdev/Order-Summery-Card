@@ -15,7 +15,7 @@ body {
   background-color: #e0e8ff;
 
   font-family: "guanabara-sans-4-3", sans-serif;
-  background-image: url("/images/pattern-background-desktop.svg");
+  background-image: url("../images/pattern-background-desktop.svg");
   background-repeat: repeat-x;
   background-position: top center;
 }
